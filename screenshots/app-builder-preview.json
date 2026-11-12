@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Marq",
+      "hasCanvas": false,
+      "bodyTextLen": 519,
+      "bodyTextHash": "5e548718bdfdbe4d6d7d05586346e6ab988193a3a7212ade79a98d07f4f889f0",
+      "bodyTextPrefix": "PHONE APP Marq Save a public TikTok. Keep the moving logo, or le",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Marq",
+      "hasCanvas": false,
+      "bodyTextLen": 338,
+      "bodyTextHash": "cf3ee9578e13da39e03003340642f8f3874c5395abafe74eb6c0fc4d42d0a09d",
+      "bodyTextPrefix": "10:19 AM Marq SAVE With the logo. Or without. Public TikTok link",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
